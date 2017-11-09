@@ -56,6 +56,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Notes\Bridge Pattern.jpg" />
+    <Content Include="Notes\Bridge Pattern.xml" />
     <Content Include="Notes\ProjectNotes.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
